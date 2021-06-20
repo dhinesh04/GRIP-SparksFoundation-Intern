@@ -5,4 +5,6 @@ Task Details:
 
 Task 1: Prediction using Supervised Machine Learning (Simple Linear Regression)
 
-Task 2: Prediction using Unsupervised Machine Learning ( KMeans Clustering)
+Task 2: Prediction using Unsupervised Machine Learning (KMeans Clustering)
+
+Task 3: Performing Exploratory Data Analysis on SampleSuperstore Dataset (EDA)
